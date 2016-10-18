@@ -1,0 +1,9 @@
+C; Alignment of the chain E from 3IEC and the correspoonding region of CagA East Asian strain
+
+>P1;3IECE
+structureX:3IEC.pdb:E::CagA:Western Helicobacter pylori:0.00:0.00
+FPLKRHDKVDDLSK*
+
+>P1;EACagA
+sequence:EACagA:     : :     : :CagA:East Asian Helicobacter pylori:-1.00:-1.00
+FPLKRHDKVDDL*
