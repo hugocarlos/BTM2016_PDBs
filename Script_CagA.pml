@@ -19,7 +19,7 @@ color yellow, westernCagA
 
 # Opening 4WB5
 fetch 4WB5
-hide 4WB5
+hide everything, 4WB5
 select AMPK, 4WB5 and chain A
 select PKI, 4WB5 and chain I
 show cartoon, AMPK
